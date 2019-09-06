@@ -1,0 +1,13 @@
+.opgave1{
+    border: 3px solid black;
+    width: 25%;
+    text-align: center;
+}
+
+.mydiv {
+    width: 25px;
+    height: 25px;
+    background-color:yellow;
+    margin:1px;
+    margin-bottom: 3em;
+}
